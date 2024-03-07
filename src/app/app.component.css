@@ -1,0 +1,12 @@
+.opcion{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    cursor: pointer;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.opcion:hover{
+        color: rgb(73, 206, 36);
+}

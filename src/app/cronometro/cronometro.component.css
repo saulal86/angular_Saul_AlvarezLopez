@@ -1,0 +1,26 @@
+.numero{
+    margin-top: 25px;
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.botones{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.boton{
+    width: 150px;
+    height: 70px;
+}
+
+.record{
+    width: 150px;
+    height: 70px;
+}
+.pausa{
+    width: 150px;
+    height: 70px;
+    margin-left: 20px;
+}
